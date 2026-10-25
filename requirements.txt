@@ -1,0 +1,9 @@
+flask
+gunicorn
+onnx
+onnxruntime
+pillow
+numpy
+scipy
+scikit-image
+reportlab
